@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "questions": [
+        "Hi",
+        "Hello",
+        "How are you?",
+        "Are you there?"
+      ],
+      "answers": [
+        "Hello",
+        "Hi",
+        "How can I help you?",
+        "Hey there",
+        "Nice to meet you. How can I help you?"
+      ]
+    },
+
+    {
+      "questions": [
+        "How to make cookie?"
+      ],
+      "answers": [
+        "Its really simple. But I don't know"
+      ]
+    },
+    {
+    	"questions": [
+    		"bye",
+    		"goodbye"
+    	],
+    	"answers": [
+    		"Bye",
+    		"Nice to meet you.",
+    		"Goodbye",
+    	]
+    }
+  ]
+}
